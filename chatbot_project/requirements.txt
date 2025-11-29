@@ -1,0 +1,5 @@
+tkinter
+textblob
+requests
+wikipedia-api
+numpy
